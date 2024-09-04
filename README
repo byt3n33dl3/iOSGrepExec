@@ -25,3 +25,5 @@ cmake ../
 make
 
 Beware, chances are the device will panic and reboot.
+
+Note: Educational Purposes Only
