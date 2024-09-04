@@ -18,6 +18,7 @@ kmem   - Tool to dump kernel memory to the console
 Build
 -----
 cd toolchain
+cd toolchain-ios
 adapt toolchain-ios.cmake
 cd build
 cmake ../
